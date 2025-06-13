@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer and student at Jala university, I'm currently learning C++, and I've found that I really like this language and would like to delve deeper into its ecosystem.
+I'm currently studying Commercial Software Engineering at Jala University. I'm passionate about programming and low-level application development. I'm also self-learning C and C++, as well as video game development using C++.
 
 
 ## 🌐 Socials:
